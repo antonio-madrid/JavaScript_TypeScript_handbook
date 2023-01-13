@@ -1,1 +1,7 @@
+# IDE config files
 .idea
+
+# TypeScript files
+TypeScript/build
+TypeScript/node_modules
+TypeScript/yarn.lock
