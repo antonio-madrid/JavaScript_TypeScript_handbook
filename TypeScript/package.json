@@ -1,0 +1,9 @@
+{
+  "name": "TypeScript_handbook",
+  "version": "1.0.0",
+  "description": "A series of TypeScripts samples to know how to use it.",
+  "main": "index.js",
+  "repository": "https://github.com/silex189/JavaScript_TypeScript_handbook",
+  "author": "Antonio Madrid",
+  "license": "MIT"
+}
